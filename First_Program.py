@@ -25,3 +25,4 @@ print(((("Hello I am "+full_name)+(", My age is: "+str(age)))+(", My height is: 
 #print("My age is: "+str(age))
 #print("My height is: "+str(height)+"cm")
 #print("Am I a human? "+str(human))
+print(first_name)
