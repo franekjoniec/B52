@@ -17,10 +17,6 @@ human = True
 #print("Am I a human? "+str(human))
 #print(type(human))
 
-
-
-
-
 print(((("Hello I am "+full_name)+(", My age is: "+str(age)))+(", My height is: "+str(height)+"cm"))+(", Am I a human? "+str(human)))
 #print("My age is: "+str(age))
 #print("My height is: "+str(height)+"cm")
